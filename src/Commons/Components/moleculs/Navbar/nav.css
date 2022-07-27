@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+
+.navbar-brand {
+  font-weight: bold;
+  color: #00c3ff !important;
+  font-size: 2.5em;
+}
+.navbar li a {
+  font-weight: bold;
+  size: 10px;
+  font-size: 1.5em;
+  color: #5f5e5d !important;
+}
+.navbar  li a:hover {
+  color: #00c3ff !important;
+}
+.navbar-toggler {
+  color: #00c3ff !important;
+}

@@ -1,0 +1,13 @@
+.card-content {
+  width: 500px;
+  height: 300px;
+}
+
+
+.card {
+  max-width: 500px;
+  margin-top: 10px;
+  text-align: center;
+  height: 300px;
+  font-family: arial;
+}
